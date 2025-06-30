@@ -1,4 +1,4 @@
-
+![Second_project](https://github.com/user-attachments/assets/4947c0c8-2f0e-4c32-92ee-7498f7bc50f2)
 # CI/CD Project
 
 This project demonstrates a full CI/CD pipeline with AWS, GitHub, Jenkins, Docker, Kubernetes, and Terraform.
@@ -47,4 +47,5 @@ Tech_Stack
 | **Terraform**        | Infrastructure as Code  |
 
 Architecture daigram
+(https://github.com/user-attachments/assets/0ed788f3-642f-46dd-a053-3134e715a90c)
 
